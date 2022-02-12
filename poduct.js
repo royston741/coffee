@@ -2,7 +2,7 @@
 const products = [
   {
     productId: 1,
-    productImg: "./productimg/product1.png",
+    productImg: "productImg/product1.png",
     productName: "Mazagran",
     productFrom: "Swizerland",
     productRating: "4.0",
@@ -13,7 +13,7 @@ const products = [
 
   {
     productId: 2,
-    productImg: "productimg/product3.png",
+    productImg: "productImg/product3.png",
     productName: "Frappucino",
     productFrom: "Argentina",
     productRating: "4.8",
@@ -24,7 +24,7 @@ const products = [
 
   {
     productId: 3,
-    productImg: "productimg/product2.png",
+    productImg: "productImg/product2.png",
     productName: "Nirocoffee",
     productFrom: "Georgia",
     productRating: "4.5",
@@ -35,7 +35,7 @@ const products = [
 
   {
     productId: 4,
-    productImg: "productimg/product5.png",
+    productImg: "productImg/product5.png",
     productName: "Iced Espreso",
     productFrom: "Mexico",
     productRating: "4.9",
@@ -46,7 +46,7 @@ const products = [
 
   {
     productId: 5,
-    productImg: "productimg/product8.png",
+    productImg: "productImg/product8.png",
     productName: "Cappucino",
     productFrom: "France",
     productRating: "4.5",
@@ -57,7 +57,7 @@ const products = [
 
   {
     productId: 6,
-    productImg: "productimg/product6.png",
+    productImg: "productImg/product6.png",
     productName: "Café au Lait",
     productFrom: "Moroco",
     productRating: "4.2",
@@ -68,7 +68,7 @@ const products = [
 
   {
     productId: 7,
-    productImg: "productimg/product7.png",
+    productImg: "productImg/product7.png",
     productName: "Americano",
     productFrom: "USA",
     productRating: "4.2",
@@ -79,7 +79,7 @@ const products = [
 
   {
     productId: 8,
-    productImg: "productimg/product4.png",
+    productImg: "productImg/product4.png",
     productName: "Colds Brew",
     productFrom: "Serbia",
     productRating: "4.1",
