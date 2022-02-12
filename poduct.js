@@ -2,7 +2,7 @@
 const products = [
   {
     productId: 1,
-    productImg: "/productimg/product1.png",
+    productImg: "./productimg/product1.png",
     productName: "Mazagran",
     productFrom: "Swizerland",
     productRating: "4.0",
